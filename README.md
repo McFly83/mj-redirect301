@@ -1,0 +1,1 @@
+# mj-redirect301
